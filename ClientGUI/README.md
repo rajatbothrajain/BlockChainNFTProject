@@ -25,7 +25,7 @@ Note: We have already created and deployed the contract on blockchain , thus cre
 
 ## Register Lamose (Optional)
 In order to establish connection with the client . Client need to register or know the wallet address of Lamose wallet. 
-We have created the lamose wallet and added its default address. To modify the lamose wallet address modify the file: ./src/lamboseInfo.js
+We have created the lamose wallet and added its default address. To modify the lamose wallet address edit in file src/lamoseInfo.js
 
 
 ## Installation:
