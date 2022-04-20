@@ -1,4 +1,5 @@
 import React from "react";
+import CONTRACT_ADDRESS from "contractInfo"
 import { useState, useEffect } from "react";
 import { Container, Row, Col, Card, Form, Button } from "react-bootstrap";
 import {
@@ -10,8 +11,6 @@ import {
 import { ethers } from "ethers";
 import { abi } from "./abi";
 
-// Add the contract address inside the quotes
-const CONTRACT_ADDRESS = "0x9Be161e062201CeBf1ec41A0Da256D069Ad456f5";
 
 export function App(props) {
   const [friends, setFriends] = useState(null);
