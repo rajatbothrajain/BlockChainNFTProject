@@ -37,5 +37,7 @@ Link: https://linuxize.com/post/how-to-install-node-js-on-centos-7/
 ## Hosted on Microsoft Azure: 
 
 URL : https://test-server-nft.azurewebsites.net/
+
 Sample API :  Fetch NFT using wallet address
+
 https://test-server-nft.azurewebsites.net/api/getNFT/0x1C2DB58d008854e2a77611829c9E7c04De2B411e
