@@ -1,6 +1,7 @@
 import React from "react";
 import { useState } from "react";
 import { Button, Modal, Form } from "react-bootstrap";
+import LAMOSE_ADDRESS from "../../lamoseInfo"
 
 // This Modal help Add a new friend
 export function AddNewChat(props) {
@@ -37,7 +38,7 @@ export function AddNewChat(props) {
             onClick={() => {
               props.addHandler(
                 "Lamose",
-              "0xDD0995F0Ee7CDb3104B813b2419b2AB86c43b8C1"
+                {LAMOSE_ADDRESS}
               );
               handleClose();
             }}

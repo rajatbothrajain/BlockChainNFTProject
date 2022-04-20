@@ -1,5 +1,5 @@
 import React from "react";
-import CONTRACT_ADDRESS from "../../contractInfo"
+import CONTRACT_ADDRESS from "../contractInfo"
 import { useState, useEffect } from "react";
 import { Container, Row, Col, Card, Form, Button } from "react-bootstrap";
 import {
