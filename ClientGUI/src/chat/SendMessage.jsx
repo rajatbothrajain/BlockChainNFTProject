@@ -1,4 +1,5 @@
 import React from "react";
+import CONTRACT_ADDRESS from "../../contractInfo"
 import { useState, useEffect } from "react";
 import { Container, Row, Col, Card, Form, Button } from "react-bootstrap";
 import {
@@ -13,7 +14,7 @@ import { abi } from "./abi";
 // Add the contract address inside the quotes
 
 //Old Contract :
-const CONTRACT_ADDRESS = "0x9Be161e062201CeBf1ec41A0Da256D069Ad456f5";
+//const CONTRACT_ADDRESS = "0x9Be161e062201CeBf1ec41A0Da256D069Ad456f5";
 
 //New Contract :
 //const CONTRACT_ADDRESS = "0xeE63492bE7d8691F16a80a96B6C413Cce9BA8Fa2";
