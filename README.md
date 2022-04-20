@@ -8,4 +8,9 @@ This application is divided into 3 Components :
 2) ClientGUI : GUI application designed to be used by the clients of lamose. Provides option of selecting and sending NFTs
 3) LamoseGUI : GUI application created to view the NFTs engraving request received from the clients/customers.
 
+Used rinkeby test network for development and testing as it is free and provides similar functionalities same as Ethereum Mainnet 
+
+
 In order to run the complete application all of the above 3 Components needs to be setup on the machine.
+
+
