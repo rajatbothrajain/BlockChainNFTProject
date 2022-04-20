@@ -21,6 +21,7 @@ See Running Code section below to know how to run this project.
 4. Click Deploy & Run Transaction tab. Change environment to Inject Web3. Deploy. Copy Contract Address for use in frontend
 5. Copy the contract address in contractInfo.js file.
 
+
 Note: We have already created and deployed the contract on blockchain , thus creation and deployment of contract step can be skipped.
 
 
@@ -36,3 +37,5 @@ Link: https://linuxize.com/post/how-to-install-node-js-on-centos-7/
 •	Run "npm start" to start the project.
 
 •	Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
