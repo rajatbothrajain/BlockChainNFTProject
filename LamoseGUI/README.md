@@ -1,5 +1,5 @@
-# Client GUI 
-Application designed to be used by the clients of lamose. Provides option of connecting to metamask wallet, fetch NFT information, Select and Send the NFTs Information to Lamose using decentralized blockchain network.
+# Lamose GUI 
+Application designed so that lamose can view the request received from the clients.
 
 ## Getting Started :
  
