@@ -19,9 +19,13 @@ See Running Code section below to know how to run this project.
 2. Uploaded database.sol to Remix IDE
 3. Click Solidity Compiler tab and compile database.sol. Copied ABI to abi.js
 4. Click Deploy & Run Transaction tab. Change environment to Inject Web3. Deploy. Copy Contract Address for use in frontend
-5. Copy the contract address in contractInfo.js file.
+5. Copy the contract address in ./src/contractInfo.js file.
 
 Note: We have already created and deployed the contract on blockchain , thus creation and deployment of contract step can be skipped.
+
+## Register Lamose (Optional)
+In order to establish connection with the client . Client need to register or know the wallet address of Lamose wallet. 
+We have created the lamose wallet and added its default address. To modify the lamose wallet address modify the file: ./src/lamboseInfo.js
 
 
 ## Installation:
